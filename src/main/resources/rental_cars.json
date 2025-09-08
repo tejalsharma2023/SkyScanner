@@ -1,0 +1,37 @@
+[
+  {
+    "city": "petalborough",
+    "kind": "rental_car",
+    "title": "Budget Car Rental"
+  },
+  {
+    "city": "petalborough",
+    "kind": "rental_car",
+    "title": "Enterprise Rent-A-Car"
+  },
+  {
+    "city": "petalborough",
+    "kind": "rental_car",
+    "title": "Hertz Car Rental"
+  },
+  {
+    "city": "rustburg",
+    "kind": "rental_car",
+    "title": "Avis Car Rental"
+  },
+  {
+    "city": "rustburg",
+    "kind": "rental_car",
+    "title": "National Car Rental"
+  },
+  {
+    "city": "shaleport",
+    "kind": "rental_car",
+    "title": "Thrifty Car Rental"
+  },
+  {
+    "city": "shaleport",
+    "kind": "rental_car",
+    "title": "Dollar Car Rental"
+  }
+]
